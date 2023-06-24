@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pabitra Banerjee</h1>
-<h3 align="center">A passionate Front-End Developer from India🧑‍💻</h3>
+<h3 align="center">A passionate Full-Stack Engineer from India🧑‍💻</h3>
 <!-- <img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb2204&label=Profile%20views&color=0e75b6&style=flat" alt="pb2204" /> </p>
