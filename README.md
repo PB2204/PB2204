@@ -8,9 +8,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/fossilianbhed?t=ugxqzr-lrclkiwni6i5gyq&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/fossilianbhed?t=ugxqzr-lrclkiwni6i5gyq&s=08?logo=twitter&style=for-the-badge" alt="https://twitter.com/fossilianbhed?t=ugxqzr-lrclkiwni6i5gyq&s=08" /></a> </p> -->
 
-- 🔭 I’m currently working on **MB AI**
+- 🔭 I’m currently working on **MB WEBBER'S**
 
-- 🌱 I’m currently learning **React , Angular**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://pabitrabanerjee.newsgoogle.org](https://pabitrabanerjee.newsgoogle.org)
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **rockstarpabitra2204@gmail.com**
+- 📫 How to reach me **pabitra.banerjee@mbwebbers.tech**
 
 - ⚡ Fun fact **I'm too much funny**
 
