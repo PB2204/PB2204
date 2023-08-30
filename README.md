@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pabitra Banerjee</h1>
 <h3 align="center">A passionate Full-Stack Engineer from India🧑‍💻</h3>
-<!-- <img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb2204&label=Profile%20views&color=0e75b6&style=flat" alt="pb2204" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pb2204" alt="pb2204" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/fossilianbhed?t=ugxqzr-lrclkiwni6i5gyq&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/fossilianbhed?t=ugxqzr-lrclkiwni6i5gyq&s=08?logo=twitter&style=for-the-badge" alt="https://twitter.com/fossilianbhed?t=ugxqzr-lrclkiwni6i5gyq&s=08" /></a> </p> -->
-
 - 🔭 I’m currently working on **MB WEBBER'S**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://pabitrabanerjee.newsgoogle.org](https://pabitrabanerjee.newsgoogle.org)
+- 👨‍💻 All of my GitHub projects are available at [Pabitra's Portfolio](https://pabitrabanerjee.me)
+
+- 👨‍💻 All of my other projects are available at [Pabitra Banerjee](https://pabitrabanerjee.newsgoogle.org)
 
 - 📝 I regularly write articles on [https://explorecode.newsgoogle.org](https://explorecode.newsgoogle.org)
 
@@ -34,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pb2204&show_icons=true&locale=en&layout=compact" alt="pb2204" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pb2204&show_icons=true&locale=en" alt="pb2204" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pb2204&count_private=true&show_icons=true&hide_title=true&locale=en&include_all_commits=true" alt="pb2204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pb2204&" alt="pb2204" /></p>
