@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **pabitra.banerjee@mbwebbers.tech**
+- 📫 How to reach me **pabitra.banerjee@explorecode.live**
 
-- ⚡ Fun fact **I'm too much funny**
+- ⚡ Special fact **I'm too much serious !!!**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
