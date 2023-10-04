@@ -35,7 +35,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pb2204&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✍️ Random Dev Quote
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' style="height: 400px; width: auto;" align="center"/>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' style="height: auto; width: auto;" align="center"/>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PB2204&limit=5&theme=dark&combine_all_yearly_contributions=true)
