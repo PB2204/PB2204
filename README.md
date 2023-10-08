@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Pabitra%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20Me%20Pabitra%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello+Programmers+!;I+Am+A+Full-Stack-AI-Engineer;Computer+Science+Student;Python+AI-ML;JavaScript+React+Node+Express;Open+Source+Contributer;Android-IOS+App+Developer+)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=2D293EE4&center=true&vCenter=true&width=600&lines=Hello+Programmers+!;I+Am+A+Full-Stack-AI-Engineer;Computer+Science+Student;Python+AI-ML;JavaScript+%3A+React+Node+Express;Open+Source+Contributor;Android+%26+IOS+App+Developer" alt="Typing SVG" /></a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pb2204&label=Profile%20views&color=0e75b6&style=flat" alt="pb2204" /> </p>
-
+<a href="https://leetcode.com/RockstarPabitra"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
 - 🔭 I’m currently working on [MB WEBBER'S](https://www.mbwebbers.tech)
 
 - 🌱 I’m currently learning **Flutter**
@@ -22,23 +23,428 @@
 
 - ⚡ Special fact **I'm too much serious !!!**
 
+I'm **Pabitra Banerjee** from **India** . I'm a Full-Stack Web Developer & AI-ML Enthusiast With Some Knowledge Of Block-Chain Technology. I'm A Very Ordinary Man Who Knows To Interact With The Dumb Computers.
+
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
+<!-- Connect with me div -->
+<div>
+  <h1 align="center">🌐 Connect With Me</h1>
+
+  <div align="center">
+  <!-- Github link -->
+    <a href="https://facebook.com/Journalist.Pabitra.Banerjee" target="_blank">
+      <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <!-- Linkedin Link -->
+    <a href="https://www.linkedin.com/in/pabitra-banerjee" target="_blank">
+      <img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <!-- Twitter link -->
+    <a href="https://medium.com/@rockstarpabitra" target="_blank">
+      <img src=https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://twitter.com/FossilianBhed">
+      <img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white alt=follow style="margin-bottom: 5px;" />
+    </a>
+  </div>
+</div>
+
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
+<h1 align="center">📊 GitHub Statistics 🏆</h1>
+<table>
+  <tr>
+    <td colspan = "2"><a href="https://pabitrabanerjee.me"><img width=100% src="https://github-profile-trophy.vercel.app/?username=pb2204&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
+	<tr>
+		<td colspan = "2"><a href = "https://pabitrabanerjee.me"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pb2204&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://pabitrabanerjee.me"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pb2204&theme=nord"></a></td>
+		<td><a href="https://pabitrabanerjee.me"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pb2204&theme=nord_dark"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://pabitrabanerjee.me"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
+		<td><a href="https://pabitrabanerjee.me"><img src="https://wakatime.com/share/@savatar/f8a8bf1d-a5f6-45f5-94e9-a7fd08ad7783.svg"></a>			</td>
+	</tr>
+	</table>
+<!-- ------------------------------------------------------------------------------------ -->
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- My Skill Div -->
+<div align="center">
+
+  <details>
+<summary><h1 align="center">My Skills</h1></summary>
+<!-- Main Table Column one -->
+<table><tr><td valign="top" width="50%">
+
+<h1 align="center">Proficient</h1>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+<table>
+
+<tr height="60">
+<td>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="NextJS" height="40" />
+</a>  
+</td>
+
+</tr>
+
+<tr>
+<td>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="40" />
+</a>  
+</td>
+  <td>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" height="40" />
+</a>
+</td>
+<td>
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material UI" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="40" />
+</a> 
+</td>
+</td>
+<td>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" height="40" />
+</a>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" height="40" />
+</a>  
+</td>
+  <td>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" height="40" />
+</a>
+</td>
+<td>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" height="40" />
+</a>  
+</td>
+  <td>
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery&theme=dark" alt="jQuery" height="40" />
+</a>  
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" height="40" />
+</a>  
+</td>
+
+
+</tr>
+</table> 
+</div>
+
+<h3 align="center">IoT</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+    <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="40" /></a>
+  </td>
+  <td>
+    <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" height="40" /></a>
+  </td>
+  <td>
+    <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="40" /></a>
+  </td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">Machine Learning</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" height="40" /></a>  
+</td>
+<td>
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" /></a>  
+</td>
+</tr>
+</table>  
+</div>
+
+<h3 align="center">Dev Tools and Software</h3>
+
+<div align="center">  
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github&theme=dark" alt="Git" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" height="40" /></a>  
+      </td>
+      <td>
+      <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" height="40" /></a>  
+    </td>
+    <td>
+      <a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="40" /></a>  
+    </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" /></a>  
+    </td>
+    <td>
+      <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
+    </td>
+      <td>
+      <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" /></a>  
+    </td>
+    <td>
+      <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="40" /></a>  
+    </td>
+    </tr>
+
+</table>
+</div>
+
+</td>
+<!-- Main Table Column two -->
+<td valign="top" width="50%">
+
+<!-- Main Table Column Two -->
+
+<h1 align="center">Learning & Exploring</h1>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">  
+  <table>
+    <tr>
+      <td>
+        <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" height="40" /></a>  
+      </td>
+            <td>
+      <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="40" /></a>  
+    </td>
+            <td>
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron" height="40" /></a>  
+      </td>
+</tr>
+<tr>
+      <td>
+        <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack&theme=dark" alt="Webpack" height="40" /></a>  
+      </td>
+  <td>
+      <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /></a>  
+    </td>
+    <td>
+      <a href="https://www.invisionapp.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="40" /></a>  
+    </td>
+</tr>
+<tr>
+    <td>
+    <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro&theme=dark" alt=".Net Core" height="40" /></a>  
+  </td>
+    <td>
+      <a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gatsby&theme=dark" alt="Gatsby" height="40" /></a>  
+    </td>
+  <td>
+    <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" /></a>  
+  </td>
+  <td>
+    <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a>  
+  </td>
+  <td>
+    <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" /></a>  
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" height="40" /></a>  
+  </td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">IoT</h3>
+
+<div align="center">  
+  <table>
+    <tr>
+      <td>
+      <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" height="40" /></a>  
+    </td>
+    <td>
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" height="40" /></a>  
+</td>
+<td>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="40" /></a>  
+</td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Machine Learning</h3>
+
+<div align="center">  
+  <table>
+    <tr>
+      <td>
+      <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" height="40" /></a>  
+    </td>
+    <td>
+      <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch" height="40" /></a>  
+    </td>
+    </tr>
+</table>
+</div>
+
+<h3 align="center">Cloud Computing</h3>
+
+<div align="center">  
+  <table>
+    <tr>
+      <td>
+        <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" height="40" /></a>  
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="40" /></a>  
+      </td>
+      <td>
+        <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" height="40" /></a>  
+      </td>
+    </tr>
+</table>
+</div>
+
+</td></tr></table>
+</details>
+
+</div>
+<!-- ------------------------------------------------------------------------------------ -->
+
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- My Project Div -->
+<div align="center">
+  <div>
+    <details>
+      <summary><h1 align="center">Webpages & Projects</h1></summary>
+      <div>
+      <table align="center">
+        <tr>
+          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/web-chat-app.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOpNrFd3s1KpTINTurLb0SMum8hByBoMeSbhdr0UfT-0RxQb7O7NBClFfYq2fCSCfpVANkMAaNtx_x-C0dtcYVffG_0sG1VqA5YHOu2sDJX-s2y_0xTjxgc8TENAhLNifmU5qfwV1t4iyQYjs74VlIvdA-9yXeA2FTPeWGwmVOMRhY8ob7MTKOcg_gkg/s1600/WEB%20CHAT%20APP.png" alt="Web Chat App"></a></td>
+          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/github-profile-search.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaLnBNL72inTx_-SWffBDamdi3QLPttIKT0DQVKdE_JrqrGG-HPPLsL836TpaxBFblWcL9yh5mSHgxNccoLu8_1qZpCJZ929qVjAtkD8Qft--Xv-GIxf1LDn7DaUI78z5Plg2hWQ4Ij0QSb_E_i9SGz-_mJVPWc2jyDjyutpjcJW_8PuwqcbbrDQNag/s1600/github%20profile%20search.png" alt="GitHub Profile Search"></a></td>
+        </tr>
+        <tr>
+          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/online-code-editor.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjPQpErOr1h_NMZve8oGTj5M3o40a3s5R7e2SAfG2QDzDnDy3FlrpHNYizL4f9TIpuNlvqVuH-QfFKXwnbAjZ_R5zNaSIHqUb1zb9J_lBzUwQG6aNpdK2KxjNl6WRqZjN6ptCQXQqyK6i53dM62otaJEAR7FV4fDOp3fdToKTnVvgJ7ZJAt0zmv3XCg/s1600/advanced%20code-editor.png" alt="ONLINE CODE EDITOR"></a></td>
+          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/browser.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm_2MuM4vzmyU11QqoZrbgAAtlPv3w3-0QmHtmB2POlvXFcAdxTN6tE-VLX0shvBBCE8-x7MQW24ayk6-EMvbGY_W-i_eZ_dOGedKt3dMCwauPzVNCrNL0_58tgOdZrt-JTZ2WdcB1osF7AWrrt5YO9BN_Z_otDezT2s7i-etuONuRLsC5O98Bt0HJDw/s1600/Browser.png" alt="Browser"></a></td>
+        </tr>
+        <tr>
+          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/interactive-data-visualization.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfxSe9H8HPKWnCcRcPR8sAQ0_wEhUeWr6yLF4Lj2KdRW_VR_ZdWoT7N-8YZ1LaPOoud1POItjDnHCPhro34RhBdwmTq-RHxxaXMF6EqjAgKWgaiqeaCjl9ocUsZUEEMwbbt3IMcZOHVxnVixhqyA6d_4x5EpmoXoLzn5i_RagGyGCaz-h5AxCBt56QnQ/s1600/Interactive%20Data%20Visualization.png" alt="Interactive Data Visualization"></a></td>
+          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/search-engine.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT_tQx5scFAsYlHvjfNI7wpH6x_nSMioXuWeieCF6uA06q5poZ5EwGlQYtz3v2S-q0dlrXQmrz8n41p5axLlOTGDIUKgSzU0ZHa9dG4u-dgBlKrxTmkxP1erM_ZRcZrp5yu9mOFf3FIFRMaKrxkLQ26TReWcNt1VMGID0iiM5l_hBq66bREmtutx4E1Q/s1600/search%20engine.png" alt="Search Engine"></a></td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/PB2204/Face-Recognition-System" target="_blank"><img src="https://pabitrabanerjee.me/Pabitra-Banerjeee/face-recognition.jpg" alt="Face Recognition System"></a>
+          </td>
+          <td>
+            <a href="https://github.com/PB2204/Donut" target="_blank"><img src="https://pabitrabanerjee.me/Pabitra-Banerjeee/rotating-donut.jpg" alt="Rotating Donut"></a>
+          </td>
+        </tr>
+      </table>
+    </div>
+    </details>
+  </div>
+</div>
+
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
+<h1 align="center">Badges and Certificates</h1>
+
+<div>
+
 [![An image of @pb2204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pb2204)](https://holopin.io/@pb2204)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Journalist.Pabitra.Banerjee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pabitra-banerjee) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rockstarpabitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FossilianBhed) 
+<img align="left" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183568-4aed1297-bb20-49c5-9a43-1be161e7807f.gif">
+<img align="left" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183474-b812ebf7-3f44-4f1c-b894-d5a03f0689d6.gif">
+<img align="right" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183468-be8097b7-d585-46ba-933a-afbe01095ed9.gif">
+<img align="right" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183493-1db760aa-49b5-4185-a76e-e8d944643723.gif">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PB2204&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PB2204&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PB2204&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pb2204&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="70"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
+</p>
 
-## ✍️ Random Dev Quote
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' style="height: auto; width: auto;" align="center"/>
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PB2204&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- View count div -->
+<div align="center">
+<img width="200px" src="https://komarev.com/ghpvc/?username=pb2204&&style=for-the-badge" align="center" />
+</div>
+
+<br/>
