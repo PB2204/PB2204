@@ -390,10 +390,10 @@ I'm **Pabitra Banerjee** from **India** . I'm a Full-Stack Web Developer & AI-ML
 
 [![An image of @pb2204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pb2204)](https://holopin.io/@pb2204)
 
-<img align="left" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183568-4aed1297-bb20-49c5-9a43-1be161e7807f.gif">
-<img align="left" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183474-b812ebf7-3f44-4f1c-b894-d5a03f0689d6.gif">
-<img align="right" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183468-be8097b7-d585-46ba-933a-afbe01095ed9.gif">
-<img align="right" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183493-1db760aa-49b5-4185-a76e-e8d944643723.gif">
+<img align="left" width="120" alt="dcc-2023-2" src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif">
+<img align="left" width="120" alt="dcc-2023-3" src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif">
+<img align="right" width="120" alt="dcc-2023-9" src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif">
+<img align="right" width="120" alt="dcc-2023-10" src="https://leetcode.com/static/images/badges/2023/gif/2023-10.gif">
 
 </div>
 
