@@ -384,41 +384,6 @@ I'm **Pabitra Banerjee** from **India** . I'm a Full-Stack Web Developer & AI-ML
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
-<!-- ------------------------------------------------------------------------------------ -->
-<!-- My Project Div -->
-<div align="center">
-  <div>
-    <details>
-      <summary><h1 align="center">Webpages & Projects</h1></summary>
-      <div>
-      <table align="center">
-        <tr>
-          <td style="width: 50%;"><a href="https://pabitrabanerjee.newsgoogle.org/p/web-chat-app.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOpNrFd3s1KpTINTurLb0SMum8hByBoMeSbhdr0UfT-0RxQb7O7NBClFfYq2fCSCfpVANkMAaNtx_x-C0dtcYVffG_0sG1VqA5YHOu2sDJX-s2y_0xTjxgc8TENAhLNifmU5qfwV1t4iyQYjs74VlIvdA-9yXeA2FTPeWGwmVOMRhY8ob7MTKOcg_gkg/s1600/WEB%20CHAT%20APP.png" alt="Web Chat App"></a></td>
-          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/github-profile-search.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaLnBNL72inTx_-SWffBDamdi3QLPttIKT0DQVKdE_JrqrGG-HPPLsL836TpaxBFblWcL9yh5mSHgxNccoLu8_1qZpCJZ929qVjAtkD8Qft--Xv-GIxf1LDn7DaUI78z5Plg2hWQ4Ij0QSb_E_i9SGz-_mJVPWc2jyDjyutpjcJW_8PuwqcbbrDQNag/s1600/github%20profile%20search.png" alt="GitHub Profile Search"></a></td>
-        </tr>
-        <tr>
-          <td style="width: 50%;"><a href="https://pabitrabanerjee.newsgoogle.org/p/online-code-editor.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjPQpErOr1h_NMZve8oGTj5M3o40a3s5R7e2SAfG2QDzDnDy3FlrpHNYizL4f9TIpuNlvqVuH-QfFKXwnbAjZ_R5zNaSIHqUb1zb9J_lBzUwQG6aNpdK2KxjNl6WRqZjN6ptCQXQqyK6i53dM62otaJEAR7FV4fDOp3fdToKTnVvgJ7ZJAt0zmv3XCg/s1600/advanced%20code-editor.png" alt="ONLINE CODE EDITOR"></a></td>
-          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/browser.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm_2MuM4vzmyU11QqoZrbgAAtlPv3w3-0QmHtmB2POlvXFcAdxTN6tE-VLX0shvBBCE8-x7MQW24ayk6-EMvbGY_W-i_eZ_dOGedKt3dMCwauPzVNCrNL0_58tgOdZrt-JTZ2WdcB1osF7AWrrt5YO9BN_Z_otDezT2s7i-etuONuRLsC5O98Bt0HJDw/s1600/Browser.png" alt="Browser"></a></td>
-        </tr>
-        <tr>
-          <td style="width: 50%;"><a href="https://pabitrabanerjee.newsgoogle.org/p/interactive-data-visualization.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfxSe9H8HPKWnCcRcPR8sAQ0_wEhUeWr6yLF4Lj2KdRW_VR_ZdWoT7N-8YZ1LaPOoud1POItjDnHCPhro34RhBdwmTq-RHxxaXMF6EqjAgKWgaiqeaCjl9ocUsZUEEMwbbt3IMcZOHVxnVixhqyA6d_4x5EpmoXoLzn5i_RagGyGCaz-h5AxCBt56QnQ/s1600/Interactive%20Data%20Visualization.png" alt="Interactive Data Visualization"></a></td>
-          <td><a href="https://pabitrabanerjee.newsgoogle.org/p/search-engine.html" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT_tQx5scFAsYlHvjfNI7wpH6x_nSMioXuWeieCF6uA06q5poZ5EwGlQYtz3v2S-q0dlrXQmrz8n41p5axLlOTGDIUKgSzU0ZHa9dG4u-dgBlKrxTmkxP1erM_ZRcZrp5yu9mOFf3FIFRMaKrxkLQ26TReWcNt1VMGID0iiM5l_hBq66bREmtutx4E1Q/s1600/search%20engine.png" alt="Search Engine"></a></td>
-        </tr>
-        <tr>
-          <td style="width: 50%;">
-            <a href="https://github.com/PB2204/Face-Recognition-System" target="_blank"><img src="https://pabitrabanerjee.me/Pabitra-Banerjeee/face-recognition.jpg" alt="Face Recognition System"></a>
-          </td>
-          <td>
-            <a href="https://github.com/PB2204/Donut" target="_blank"><img src="https://pabitrabanerjee.me/Pabitra-Banerjeee/rotating-donut.jpg" alt="Rotating Donut"></a>
-          </td>
-        </tr>
-      </table>
-    </div>
-    </details>
-  </div>
-
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
-
 <h1 align="center">Badges and Certificates</h1>
 
 <div>
