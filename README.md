@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Pabitra%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello+Programmers+!;I'm+Pabitra+Banerjee+from+India;Python+AI-ML;Computer+Science+Student;JavaScript+React+Node+Express;Block+Chain+Developer;I'm+a+Full-Stack-AI-Engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello+Programmers+!;I+Am+A+Full-Stack-AI-Engineer;Computer+Science+Student;Python+AI-ML;JavaScript+React+Node+Express;Open+Source+Contributer;Android-IOS+App+Developer+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb2204&label=Profile%20views&color=0e75b6&style=flat" alt="pb2204" /> </p>
 
