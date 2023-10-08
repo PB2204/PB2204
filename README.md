@@ -1,4 +1,6 @@
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d686561646572](https://user-images.githubusercontent.com/90936436/226839506-4bae5412-ed2f-47fd-b19f-569d65644be4.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Pabitra%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello+Programmers+!;I'm+Pabitra+Banerjee+from+India;Python+AI-ML;Computer+Science+Student;JavaScript+React+Node+Express;Block+Chain+Developer;I'm+a+Full-Stack-AI-Engineer+)](https://git.io/typing-svg)
 
