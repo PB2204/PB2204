@@ -388,7 +388,7 @@ I'm **Pabitra Banerjee** from **India** . I'm a Full-Stack Web Developer & AI-ML
 
 <div>
 
-
+[![An image of @pb2204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pb2204)](https://holopin.io/@pb2204)
 
 <img align="left" width="120" alt="dcc-2023-2" src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif">
 <img align="left" width="120" alt="dcc-2023-3" src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif">
