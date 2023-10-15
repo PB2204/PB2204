@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=2D293EE4&center=true&vCenter=true&width=600&lines=Hello+Programmers+!;I+Am+A+Full-Stack-AI-Engineer;Computer+Science+Student;Python+AI-ML;JavaScript+%3A+React+Node+Express;Open+Source+Contributor;Android+%26+IOS+App+Developer" alt="Typing SVG" /></a>
+<a href="https://pabitrabanerjee.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=2D293EE4&center=true&vCenter=true&width=600&lines=Hello+Programmers+!;I+Am+A+Full-Stack-AI-Engineer;Computer+Science+Student;Python+AI-ML;JavaScript+%3A+React+Node+Express;Open+Source+Contributor;Android+%26+IOS+App+Developer" alt="Typing SVG" /></a>
 </div>
 
 <a href="https://leetcode.com/RockstarPabitra"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
