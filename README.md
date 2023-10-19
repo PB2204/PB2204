@@ -66,7 +66,7 @@ I'm **Pabitra Banerjee** from **India** . I'm a Full-Stack Web Developer & AI-ML
 	</tr>
 	<tr>
 		<td><a href="https://pabitrabanerjee.me"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
-		<td><a href="https://pabitrabanerjee.me"><img src="https://wakatime.com/share/@RockstarPabitra/19d02e85-0b2b-4321-a002-a9202e033811.svg"></a>			</td>
+		<td><a href="https://pabitrabanerjee.me"><img src="https://wakatime.com/share/@RockstarPabitra/ead52247-5521-46ac-9fcb-eacfde7f8005.svg"></a>			</td>
 	</tr>
 	</table>
 <!-- ------------------------------------------------------------------------------------ -->
