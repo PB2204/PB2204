@@ -7,6 +7,9 @@
 </div>
 
 <a href="https://leetcode.com/RockstarPabitra"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🥨 It&#39;s Week 2 of <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;ref_src=twsrc%5Etfw">#Hacktoberfest</a> and we&#39;re thrilled to spotlight another brilliant Community Exchange maintainer, <a href="https://twitter.com/FossilianBhed?ref_src=twsrc%5Etfw">@FossilianBhed</a> aka Pabitra Banerjee! 🚀 Pabitra dives into the open-source world to prep for working on large code bases in top-tier product companies.<br><br>📚 His advice… <a href="https://t.co/eWCi71lbpl">pic.twitter.com/eWCi71lbpl</a></p>&mdash; GitHub Education (@GitHubEducation) <a href="https://twitter.com/GitHubEducation/status/1714977116935057621?ref_src=twsrc%5Etfw">October 19, 2023</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - 🔭 I’m currently working on [MB WEBBER'S](https://www.mbwebbers.tech)
 
 - 🌱 I’m currently learning **Flutter**
