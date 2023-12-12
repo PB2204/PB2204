@@ -28,7 +28,7 @@ I'm **Pabitra Banerjee** from **India** . I'm a Full-Stack Web Developer & AI-ML
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
-[![Check out PB2204's profile on stardev.io](https://stardev.io/developers/PB2204/badge/languages/global.svg)](https://stardev.io/developers/PB2204)
+<a href="https://pabitrabanerjee.me"><img alt="Check out PB2204&apos;s profile on stardev.io" src="https://stardev.io/developers/PB2204/badge/languages/global.svg" /></a>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
