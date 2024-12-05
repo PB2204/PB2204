@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my GitHub projects are available at [Pabitra's Portfolio](https://pabitrabanerjee.me)
+- 👨‍💻 All of my GitHub projects are available at [Pabitra's Portfolio](https://coderpabitra.me)
 
 - 👨‍💻 All of my other projects are available at [Pabitra Banerjee](https://pabitrabanerjee.newsgoogle.org)
 
-- 📝 I regularly write articles on [https://explorecode.newsgoogle.org](https://explorecode.newsgoogle.org)
+- 📝 I regularly write articles on [https://rockstarpabitra.blogspot.com](https://rockstarpabitra.blogspot.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **pabitra.banerjee@explorecode.live**
+- 📫 How to reach me **pabitra.banerjee@mbwebbers.tech**
 
 - ⚡ Special fact **I'm too much serious !!!**
 
