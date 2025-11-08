@@ -8,19 +8,19 @@
 
 <a href="https://leetcode.com/RockstarPabitra"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
 
-- 🔭 I’m currently working on [MB WEBBER'S](https://www.mbwebbers.tech)
+- 🔭 I’m currently working on [MB WEBBER'S](https://www.mbwebbers.dev)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my GitHub projects are available at [Pabitra's Portfolio](https://coderpabitra.me)
+- 👨‍💻 All of my GitHub projects are available at [Pabitra's Portfolio](https://sdepabitra.me)
 
-- 👨‍💻 All of my other projects are available at [Pabitra Banerjee](https://pabitrabanerjee.newsgoogle.org)
+- 👨‍💻 All of my other projects are available at [Pabitra Banerjee](https://github.co,/PB2204)
 
 - 📝 I regularly write articles on [https://rockstarpabitra.blogspot.com](https://rockstarpabitra.blogspot.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **pabitra.banerjee@mbwebbers.tech**
+- 📫 How to reach me **contact@mbwebbers.dev**
 
 - ⚡ Special fact **I'm too much serious !!!**
 
@@ -60,18 +60,18 @@ I'm **Pabitra Banerjee** from **India** . I'm a Full-Stack Web Developer & AI-ML
 <h1 align="center">📊 GitHub Statistics 🏆</h1>
 <table>
   <tr>
-    <td colspan = "2"><a href="https://pabitrabanerjee.me"><img width=100% src="https://github-profile-trophy.vercel.app/?username=pb2204&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+    <td colspan = "2"><a href="https://sdepabitra.me"><img width=100% src="https://github-profile-trophy.vercel.app/?username=pb2204&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
   </tr>
 	<tr>
-		<td colspan = "2"><a href = "https://pabitrabanerjee.me"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pb2204&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+		<td colspan = "2"><a href = "https://sdepabitra.me"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pb2204&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://pabitrabanerjee.me"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pb2204&theme=nord"></a></td>
-		<td><a href="https://pabitrabanerjee.me"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pb2204&theme=nord_dark"></a></td>
+		<td><a href="https://sdepabitra.me"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pb2204&theme=nord"></a></td>
+		<td><a href="https://sdepabitra.me"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pb2204&theme=nord_dark"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://pabitrabanerjee.me"><img src="https://wakatime.com/share/@RockstarPabitra/421e6b42-ce3e-49d2-a361-de62bf007fc6.svg"></a>			</td>
-		<td><a href="https://pabitrabanerjee.me"><img src="https://wakatime.com/share/@RockstarPabitra/ead52247-5521-46ac-9fcb-eacfde7f8005.svg"></a>			</td>
+		<td><a href="https://sdepabitra.me"><img src="https://wakatime.com/share/@RockstarPabitra/421e6b42-ce3e-49d2-a361-de62bf007fc6.svg"></a>			</td>
+		<td><a href="https://sdepabitra.me"><img src="https://wakatime.com/share/@RockstarPabitra/ead52247-5521-46ac-9fcb-eacfde7f8005.svg"></a>			</td>
 	</tr>
 	</table>
 <!-- ------------------------------------------------------------------------------------ -->
